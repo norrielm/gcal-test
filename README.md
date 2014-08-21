@@ -1,7 +1,6 @@
 Read from a Google Calendar.
  
-The clientId and clientSecret can be found in Google Developers Console.
-See url(https://console.developers.google.com)
+The clientId and clientSecret can be found in Google Developers Console: https://console.developers.google.com
 
 Usage:
 1. Create a project and note down the generated app name (or the one you set).
@@ -16,4 +15,4 @@ Usage:
 Prerequisites: 
 1. Cal jar
 2. Google client jars
-See url(http://stackoverflow.com/questions/17732062/google-calendar-api-not-found-calendar-classes-missing)
+See http://stackoverflow.com/questions/17732062/google-calendar-api-not-found-calendar-classes-missing
